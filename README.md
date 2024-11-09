@@ -21,5 +21,12 @@ To run any of the projects, simply clone the repository and navigate to the proj
 ```bash
 git clone https://github.com/valcrog/PythonSandbox.git
 cd PythonSandbox/project-directory
-python project_file.py
 ```
+
+Then, install the requirements using:
+
+```bash
+pip install -r requirements.txt
+```
+
+You're now all set to run the main project file `main.py` !
