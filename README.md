@@ -8,7 +8,11 @@ Feel free to browse through the projects :)
 
 ## Projects
 
-- Project 1: Coming soon...
+- Project 1 (v0.1): PoolBounce
+
+## Projects description
+### Project 1 - Pool Bounce Simulation
+Ok, this one is a bit silly. We were playing pool when we wondered: would an infinite force allow us to make the ball reach a hole, no matter where or in which direction we hit it? I'm sure some math could help me figure it out, but spending too much time on such a simple Python project just sounded way more fun...
 
 ## Getting Started
 
